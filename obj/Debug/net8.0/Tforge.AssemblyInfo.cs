@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tforge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d95e85df1cc6582ea106dbdcff819c16af8ead76")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tforge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tforge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

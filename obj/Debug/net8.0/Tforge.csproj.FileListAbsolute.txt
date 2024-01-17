@@ -126,3 +126,14 @@
 /Users/admin/Documents/Tforge/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
 /Users/admin/Documents/Tforge/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
 /Users/admin/Documents/Tforge/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/admin/Documents/Tforge/bin/Debug/net8.0/Tforge.xml
+/Users/admin/Documents/Tforge/obj/Debug/net8.0/Tforge.sourcelink.json
+/Users/admin/Documents/Tforge/obj/Debug/net8.0/Tforge.xml
+/Users/admin/Documents/Tforge/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/admin/Documents/Tforge/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/admin/Documents/Tforge/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/admin/Documents/Tforge/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/admin/Documents/Tforge/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/admin/Documents/Tforge/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/admin/Documents/Tforge/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/admin/Documents/Tforge/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll

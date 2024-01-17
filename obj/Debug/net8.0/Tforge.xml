@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Tforge</name>
+    </assembly>
+    <members>
+        <member name="M:BooksController.GetBooks">
+            <summary>
+            Gets a list of all books.
+            </summary>
+        </member>
+        <member name="M:BooksController.GetBook(System.Int32)">
+            <summary>
+            Gets a specific book by ID.
+            </summary>
+            <param name="id">The ID of the book.</param>
+        </member>
+        <member name="M:BooksController.CreateBook(Book)">
+            <summary>
+            Creates a new book.
+            </summary>
+            <param name="book">The book to create.</param>
+        </member>
+        <member name="M:BooksController.UpdateBook(System.Int32,Book)">
+            <summary>
+            Updates an existing book by ID.
+            </summary>
+            <param name="id">The ID of the book to update.</param>
+            <param name="book">The updated book data.</param>
+        </member>
+        <member name="M:BooksController.DeleteBook(System.Int32)">
+            <summary>
+            Deletes a book by ID.
+            </summary>
+            <param name="id">The ID of the book to delete.</param>
+        </member>
+        <member name="T:Tforge.Migrations.InitialCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:Tforge.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Tforge.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Tforge.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:Tforge.Migrations.BookController">
+            <inheritdoc />
+        </member>
+        <member name="M:Tforge.Migrations.BookController.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Tforge.Migrations.BookController.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Tforge.Migrations.BookController.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:Book">
+            <summary>
+            Class to encompass book type
+            </summary>
+        </member>
+        <member name="P:Book.Id">
+            <summary>
+            Primary key
+            </summary>
+        </member>
+        <member name="P:Book.Title">
+            <summary>
+            Title of book
+            </summary>
+        </member>
+        <member name="P:Book.Author">
+            <summary>
+            Author of book
+            </summary>
+        </member>
+        <member name="T:User">
+            <summary>
+            User object
+            </summary>
+        </member>
+        <member name="P:User.Id">
+            <summary>
+            User primary key
+            </summary>
+        </member>
+        <member name="P:User.Email">
+            <summary>
+            Gets or sets user email
+            </summary>
+        </member>
+        <member name="P:User.PasswordHash">
+            <summary>
+            Gets or sets passwordHash
+            </summary>
+        </member>
+    </members>
+</doc>
