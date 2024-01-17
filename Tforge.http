@@ -1,0 +1,6 @@
+@Tforge_HostAddress = http://localhost:5008
+
+GET {{Tforge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
